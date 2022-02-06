@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning Typescript, AWS and German  
 
-- 👯 I’m looking to collaborate on   
+- 👯 I’m looking to collaborate on open source projects
 
 - 💬 Talk to me about  New exciting job opportunities related to either Front-end or Back-end using react and node. 
 
